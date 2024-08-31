@@ -39,3 +39,7 @@ class Book {
   }
 
 }
+
+class Test() {
+  
+}
